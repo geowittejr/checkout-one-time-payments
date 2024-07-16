@@ -1,5 +1,7 @@
 # Accept payments with Stripe Checkout
 
+(The Checkout product has the ability to use an embedded form for a very good "no code" solution.)
+
 This sample shows you how to integrate with Stripe [Checkout](https://stripe.com/docs/checkout).
 
 Building a payment form UI from scratch is difficult -- input field validation, error message handing, and localization are just a few things to think about when designing a simple checkout flow.
